@@ -69,7 +69,7 @@ Campaign Type Count
 
 Studied the frequency of different campaign types.
 
-"Campaign Type Count" (images/campaign_type_count.png)
+![Campaign Type Count](Images/campaign_type_count.png)
 
 ---
 
